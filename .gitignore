@@ -1,0 +1,5 @@
+# ignore Microsoft Word file types
+*.docx
+*.docm
+*.dotx
+*.dotm
